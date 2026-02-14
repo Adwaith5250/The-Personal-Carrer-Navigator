@@ -83,7 +83,7 @@ Built with a commitment to performance, type safety, and modern design principle
 Create a `.env.local` file in the root directory:
 
 ```env
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=3V_gu2eKYPv4wZpdBDiZh8
 ```
 
 ### Quick Start
